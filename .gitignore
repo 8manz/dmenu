@@ -1,0 +1,11 @@
+Makefile.orig
+dmenu.c.orig
+dmenu.h.orig
+dmenu.def.h.orig
+config.def.h.orig
+config.def.h.rej
+config.h
+drw.o
+dmenu.o
+util.o
+dmenu.c.rej
